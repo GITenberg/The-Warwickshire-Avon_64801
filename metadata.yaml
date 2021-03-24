@@ -1,0 +1,40 @@
+_repo: The-Warwickshire-Avon_64801
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Parsons, Alfred
+    birthdate: 1847
+    deathdate: 1920
+    gutenberg_agent_id: '51796'
+    url: http://www.gutenberg.org/2009/agents/51796
+    wikipedia: https://en.wikipedia.org/wiki/Alfred_Parsons_(artist)
+creator:
+  author:
+    agent_name: Quiller-Couch, Arthur
+    aliases:
+    - Quiller-Couch, Arthur Thomas
+    - Quiller-Couch, A. T. (Arthur Thomas)
+    - Quiller-Couch, Sir Arthur Thomas
+    - Q
+    birthdate: 1863
+    deathdate: 1944
+    gutenberg_agent_id: '3579'
+    url: http://www.gutenberg.org/2009/agents/3579
+    wikipedia: https://en.wikipedia.org/wiki/Arthur_Quiller-Couch
+description: ''
+gutenberg_issued: '2021-03-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64801'
+  lccn: 03008191
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Avon, River (Leicestershire-Gloucestershire, England)'
+- !lcc 'DA'
+- !lcsh 'Warwickshire (England) -- Description and travel'
+- GITenberg
+title: The Warwickshire Avon
+url: http://www.gutenberg.org/ebooks/64801
