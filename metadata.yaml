@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '51796'
     url: http://www.gutenberg.org/2009/agents/51796
     wikipedia: https://en.wikipedia.org/wiki/Alfred_Parsons_(artist)
+covers:
+- cover_type: archival
+  image_path: 64801-h/images/cover.jpg
 creator:
   author:
     agent_name: Quiller-Couch, Arthur
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3579
     wikipedia: https://en.wikipedia.org/wiki/Arthur_Quiller-Couch
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64801#The-Warwickshire-Avon
 gutenberg_issued: '2021-03-12'
 gutenberg_type: Text
 identifiers:
